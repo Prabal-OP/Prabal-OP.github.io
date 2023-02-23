@@ -337,6 +337,7 @@ a.navb:hover{
 
   a.navb{
     font-size: large;
+    font-family: Georgia, serif;
   }
 
   .logo{
@@ -393,6 +394,7 @@ a.navb:hover{
   #hd{
     padding: 0% 0% 4%;
     font-size: 8vh;
+    font-family: Georgia, serif;
   }
 
   #abtinfo{
@@ -403,34 +405,41 @@ a.navb:hover{
     padding: 0% 3% 0% 0%;
     font-size: 3.2vh;
     text-align: center;
+    font-family: Verdana, sans-serif;
   }
 
   #head{
     font-size: 7.3vh;
+    font-family: Georgia, serif;
   }
 
   .eduhd{
     font-size: 3.2vh;
+    font-family: Georgia, serif;
   }
 
   .eduli{
     font-size: 2.2vh;
     padding: 2% 0% 8% 6%;
+    font-family: Verdana, sans-serif;
   }
 
   .skhd{
     font-size: 4.3vh;
     padding: 4% 0% 0% 0% ;
+    font-family: Georgia, serif;
   }
 
   .skli{
     font-size: 2.1vh;
     padding: 1% 0% 7% 6%;
+    font-family: Verdana, sans-serif;
   }
 
   #cnthd{
     font-size: 5.2vh;
     padding: 4% 0% 0% 0%;
+    font-family: Georgia, serif;
   }
 
   #cntinfo{
@@ -443,18 +452,21 @@ a.navb:hover{
     font-size: 2.7vh;
     width: 100%;
     padding: 0% 0% 6% 0%;
+    font-family: Verdana, sans-serif;
   }
 
   #ad{
     font-size: 2.7vh;
     width: 100%;
     padding: 2% 0% 6% 0%;
+    font-family: Verdana, sans-serif;
   }
 
   #em{
     font-size: 2.7vh;
     width: 100%;
     padding: 0% 0% 6%;
+    font-family: Verdana, sans-serif;
   }
 
   .icons{
