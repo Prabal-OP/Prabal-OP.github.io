@@ -190,6 +190,11 @@ a.navb:hover{
 
 .klslink{
   text-decoration: none;
+  color: rgb(202, 92, 202);
+}
+
+.klslink:hover{
+  opacity: 0.7 ;
 }
 
 .background4{
@@ -216,6 +221,11 @@ a.navb:hover{
 
 .hkrlink{
   text-decoration: none;
+  color:rgb(202, 92, 202);
+}
+
+.hkrlink:hover{
+  opacity: 0.7 ;
 }
 
 #contact{
@@ -244,9 +254,9 @@ a.navb:hover{
 
 #no{
   width: 33%;
-  font-family: cursive;
+  font-family: cursive,Verdana, sans-serif;
   font-size: 1.7vw;
-  text-align: center,Verdana, sans-serif;
+  text-align: center;
   margin: 0%;
 }
 
